@@ -1,4 +1,4 @@
-# Projeto de Verificação de Dados em Arquivos ZIP (ex. PTUA500)
+# Projeto de Verificação de Dados em Arquivos ZIP (ex. PTUA500 2.1)
 
 Este projeto é um script Python desenvolvido para verificar dados em arquivos ZIP que contêm XML e PDF. O objetivo é extrair informações de arquivos XML dentro de arquivos ZIP e compará-las com os dados extraídos de arquivos PDF para garantir sua integridade e consistência.
 
